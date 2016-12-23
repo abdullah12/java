@@ -44,6 +44,6 @@ public class boo extends Application {
  
   // Override the stop() method. 
   public void stop() { 
-    System.out.println("Inside the stop() method."); 
+    
   } 
 }
